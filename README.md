@@ -1,8 +1,10 @@
-KarsonTheFoxx
-python, java, javascript, html, css, basic, bash
+<body>
+  <h1>KarsonTheFoxx</h1>
+  <p>python, java, javascript, html, css, basic, bash<p>
 
-contacts
-email: Karsonthefoxx@gmail.com
-discord: Karsonthefoxx#1260
-
-<!-- test -->
+  <h3>contacts</h3>
+  <ul>
+    <li>email: Karsonthefoxx@gmail.com</li>
+     <li>discord: Karsonthefoxx#1260</li>
+  </ul>
+ </body>
