@@ -1,6 +1,6 @@
 <body>
   <h1>KarsonTheFoxx</h1>
-  <p>python, java, javascript, html, css, basic, bash<p>
+  <p>Python, Java<p>
 
   <h3>contacts</h3>
   <ul>
